@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Anuraghasingh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on flutter.
-- 📫 How to reach me ...
+intersted in app development and web development
+
+
 
 <!---
 Anuraghasingh/Anuraghasingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
